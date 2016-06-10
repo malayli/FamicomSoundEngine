@@ -1,2 +1,2 @@
 # famicom
-You'll need mario.chr file to compile the asm file
+You'll need mario.chr file to compile the asm file.
